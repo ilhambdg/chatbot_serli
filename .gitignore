@@ -1,0 +1,5 @@
+/venv/
+/.devcontainer/
+.streamlit/
+
+/data_siswa_srl/
